@@ -30,13 +30,19 @@ function App() {
           placeholder="Search for movies"
           value={searchTerm}
           onChange={(event) => setSearchTerm(event.target.value)}
+          onKeyPress={(ev) => {
+            if (ev.key === "Enter") {
+              searchMovies(searchTerm)
+            }
+          }}
         />
+        
         <img
           src={SearchIcon}
           alt="search"
           onClick={() => searchMovies(searchTerm)}
-
         />
+
       </div>
 
       {movies?.length > 0 ? (

@@ -31,7 +31,7 @@ command to run if program contains helper info
 
 Contributors names and contact info
 
-Primat Panda [pritampanda777@gmail.com]  
+Pritam Panda [pritampanda777@gmail.com]  
 
 Ananya Nayak [ananyanayak102@gmail.com]
 

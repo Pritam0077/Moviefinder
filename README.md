@@ -33,8 +33,6 @@ Contributors names and contact info
 
 Pritam Panda [pritampanda777@gmail.com]  
 
-Ananya Nayak [ananyanayak102@gmail.com]
-
 Mikolaj Sodzawiczny [https://twitter.com/AjSodzawiczny]
 
 
